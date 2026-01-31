@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>SoundCloud Downloader CLI</title>
-</head>
 <body>
 
-<h1>SoundCloud Downloader CLI</h1>
+<h1>soundcloud downloader</h1>
 <p> jaja cree un downloader de soundcloud </p>
 
 <h2>Requisitos</h2>
